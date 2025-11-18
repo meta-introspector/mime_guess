@@ -4,3 +4,4 @@ Cargo.lock
 src/mime_types_generated.rs
 .idea/
 *.imlprocess-repo.log
+process-repo.log
